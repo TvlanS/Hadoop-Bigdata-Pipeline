@@ -1,6 +1,9 @@
 # Docker Hadoop Ecosystem - Airbnb ELT Pipeline
 
-A containerized big data ecosystem for ingesting, processing, and analyzing Airbnb listing data using Hadoop, Spark, Hive, Trino, ClickHouse, and Airflow.
+A containerized big data ecosystem for ingesting, processing, and analyzing Airbnb listing data using Hadoop, Spark, Hive, Trino, ClickHouse, and Airflow
+
+![Architecture Image](http://github.com/TvlanS/Hadoop-Bigdata-Pipeline/blob/main/readme_images/data_architecture.png)
+
 
 ## Features
 
