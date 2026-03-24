@@ -2,7 +2,7 @@
 
 A containerized big data ecosystem for ingesting, processing, and analyzing Airbnb listing data using Hadoop, Spark, Hive, Trino, ClickHouse, and Airflow
 
-![Architecture Image](http://github.com/TvlanS/Hadoop-Bigdata-Pipeline/blob/main/readme_images/data_architecture.png)
+![Architecture Image](https://github.com/TvlanS/Hadoop-Bigdata-Pipeline/blob/469c60c31e0456b82ceefb51dd7f0796d6f2d101/readme_images/data_architecture.png)
 
 
 ## Features
